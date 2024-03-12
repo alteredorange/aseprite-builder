@@ -1,2 +1,3 @@
 - build `v1.3-rc6`
 - initial test build
+- actions now enabled, should work
